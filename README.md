@@ -1,0 +1,1 @@
+# It is simple Django Project that records Your monthly challenge. 
